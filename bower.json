@@ -1,0 +1,29 @@
+{
+  "name": "TchatCared2",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sferey/TchatCared2",
+  "authors": [
+    "Linaida <dev.linda66@gmail.com>"
+  ],
+  "description": "Projet tchat tp dirigé par Stephane",
+  "main": "/src/public/index.php",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "tchat",
+    "cared"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "DataTables": "~1.10.0"
+  }
+}
