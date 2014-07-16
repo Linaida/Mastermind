@@ -1,7 +1,7 @@
 {
-  "name": "TchatCared2",
+  "name": "Mastermind",
   "version": "0.0.1",
-  "description": "Projet tchat",
+  "description": "Projet mastermind",
   "main": "Gruntfile.js",
   "dependencies": {
     "grunt": "^0.4.5",
@@ -18,15 +18,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sferey/TchatCared2.git"
+    "url": "https://github.com/sferey/Mastermind.git"
   },
   "keywords": [
-    "tchat"
+    "mastermind"
   ],
   "author": "Linda",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sferey/TchatCared2/issues"
+    "url": "https://github.com/sferey/Mastermind/issues"
   },
-  "homepage": "https://github.com/sferey/TchatCared2"
+  "homepage": "https://github.com/sferey/Mastermind"
 }
