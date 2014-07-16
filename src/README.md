@@ -4,5 +4,7 @@
 ##Technologies utilisées : 
 --------------------------
 >HTML5
+>
 >CSS3
+>
 >JQUERY
