@@ -8,7 +8,10 @@
     ( Determiner la difficulté du jeu = FACILE MOYEN DIFFICILE )
 
 ## Déroulement du jeu :
+    Cliquer sur le bouton DEBUT DE PARTIE
     1er Ligne avec les couleurs à trouver + Bouton OK
+    
+    
 ##
 ##Technologies utilisées : 
 --------------------------

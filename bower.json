@@ -24,6 +24,8 @@
   ],
   "dependencies": {
     "bootstrap": "~3.2.0",
-    "DataTables": "~1.10.0"
+    "DataTables": "~1.10.0",
+    "jquery-ui": "~1.11.0",
+    "prototypejs": "~1.7.1"
   }
 }
