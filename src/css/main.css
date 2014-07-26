@@ -68,10 +68,10 @@ h1 {
 .rose {
   background: pink;
 }
-.liste_couleur {
+#liste_couleur {
   list-style: none;
 }
-.liste_couleur li {
+#liste_couleur li {
   display: inline-block;
 }
 .couleur {
