@@ -63,6 +63,7 @@ h1 {
   display: inline-block;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 .btn_valider {
   vertical-align: top;
   margin-top: 20px;
@@ -73,6 +74,10 @@ h1 {
 #testBlock {
   padding: 5px;
 >>>>>>> origin/master
+=======
+#testBlock {
+  padding: 5px;
+>>>>>>> 906b38e44f955a870f2f4fbee6cb63dde9168321
 }
 #liste_couleur {
   list-style: none;
