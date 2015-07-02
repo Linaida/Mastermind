@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sferey/Mastermind.git"
+    "url": "https://github.com/linaida/Mastermind.git"
   },
   "keywords": [
     "mastermind"
@@ -28,7 +28,7 @@
   "author": "Linda",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sferey/Mastermind/issues"
+    "url": "https://github.com/linaida/Mastermind/issues"
   },
-  "homepage": "https://github.com/sferey/Mastermind"
+  "homepage": "https://github.com/linaida/Mastermind"
 }

@@ -1,17 +1,17 @@
 {
-  "name": "TchatCared2",
+  "name": "Mastermind",
   "version": "0.0.1",
-  "homepage": "https://github.com/sferey/TchatCared2",
+  "homepage": "https://github.com/linaida/Mastermind",
   "authors": [
     "Linaida <dev.linda66@gmail.com>"
   ],
-  "description": "Projet tchat tp dirigé par Stephane",
+  "description": "Projet tchat tp dirigé par linaida",
   "main": "/src/public/index.php",
   "moduleType": [
     "node"
   ],
   "keywords": [
-    "tchat",
+    "mastermind",
     "cared"
   ],
   "license": "MIT",
@@ -24,8 +24,6 @@
   ],
   "dependencies": {
     "bootstrap": "~3.2.0",
-    "DataTables": "~1.10.0",
-    "jquery-ui": "~1.11.0",
-    "prototypejs": "~1.7.1"
+    "jquery-ui": "~1.11.0"
   }
 }
