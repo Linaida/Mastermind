@@ -5,11 +5,11 @@ module.exports = function(grunt) {
     pkg: grunt.file.readJSON('package.json'),
     less: {
          compile: {
-            files: {'src/css/main.css' : 'src/css/main.less'}
+            files: {'src/css/main.css' : 'src/less/main.less'}
          }
          },
     watch: {
-        files: ['src/**/*.*'],
+        files: ['src/less/*.*','src/*.html','src/js/*.*'],
         options: {
         livereload: true
         },
