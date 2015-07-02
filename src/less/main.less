@@ -7,46 +7,8 @@ and open the template in the editor.
     Created on : 16 juil. 2014, 16:03:38
     Author     : LINA
 */
-.contenu {
-  border-radius: 19px;
-  border: 2px solid #800080;
-  display: inline-block;
-  height: 400px;
-}
-div {
-  background-color: inherit;
-}
-h1 {
-  color: blue;
-}
-.inline-block {
-  display: inline-block;
-}
-.show {
-  display: block;
-  visibility: visible;
-}
-.hide {
-  display: none;
-  visibility: hidden;
-}
-.indices {
-  display: inline-block;
-  width: 100px;
-  height: 100px;
-  background: grey;
-  border: 1px solid black;
-}
-.row {
-  margin: 3px 3px 3px 3px;
-}
-.bille {
-  width: 100px;
-  height: 100px;
-  border: 1px solid black;
-  border-radius: 95px;
-  display: inline-block;
-}
+
+// Helpers class //
 .rouge {
   background: red ;
 }
@@ -68,12 +30,73 @@ h1 {
 .rose {
   background: pink;
 }
+div {
+  background-color: inherit;
+}
+h1 {
+  color: blue;
+}
+.inline-block {
+  display: inline-block;
+}
+.show {
+  display: block;
+  visibility: visible;
+}
+.hide {
+  display: none;
+  visibility: hidden;
+}
+
+.row {
+  margin: 3px 3px 3px 3px;
+}
+
+//##### FIN HELPER CLASS #######//
+
+
+.contenu {
+  border-radius: 19px;
+  border: 2px solid #800080;
+  display: inline-block;
+  height: 400px;
+}
+
+//La ou on va définir les couleurs //
+.bille {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  margin: 10px;
+  border-radius: 95px;
+  display: inline-block;
+}
+
+#testBlock{
+    
+    
+}
+.btn_valider{
+    vertical-align: top;
+    margin-top : 20px;
+}
+// Bloc qui apparait après la validation de la ligne//
+
+#indiceBlock {
+ float:right;
+}
+
+
+// La ou sont contenu les couleurs //
+
 #liste_couleur {
   list-style: none;
 }
 #liste_couleur li {
   display: inline-block;
 }
+
+// Billes pour définir la couleur que l'on veut mettre //
 .couleur {
   width: 45px;
   height: 45px;
@@ -81,3 +104,5 @@ h1 {
   border: 1px solid black;
   border-radius: 94px;
 }
+
+
